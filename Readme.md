@@ -46,7 +46,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/stutiagrawal255-prog/stutiagrawal255-prog/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stutiagrawal255-prog/stutiagrawal255-prog/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stutiagrawal255-prog/stutiagrawal255-prog/output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/stutiagrawal255-prog/stutiagrawal255-prog/output/snake.svg" />
+</picture>
 
 ###
 
