@@ -51,8 +51,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stutiagrawal255-prog&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&cache_seconds=86400" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stutiagrawal255-prog&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&cache_seconds=86400" height="150" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stutiagrawal255-prog&theme=tokyonight" height="150" alt="stats graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stutiagrawal255-prog&theme=tokyonight" height="150" alt="languages graph" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=stutiagrawal255-prog&theme=tokyonight&hide_border=false" height="150" alt="streak graph" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stutiagrawal255-prog&radius=16&theme=tokyo-night&area=true" height="300" alt="activity-graph graph" />
 </div>
