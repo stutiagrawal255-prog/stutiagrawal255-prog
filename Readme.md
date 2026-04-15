@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">B.Tech IT student at Poornima College of Engineering, passionate about frontend development and UI/UX design.<br>Worked as a Frontend Developer at LNMHacks and Smart India Hackathon, focusing on building responsive and user-friendly web interfaces.<br>Always eager to learn, create, and contribute to innovative projects 🚀</p>
+<p align="left">🎓 B.Tech (Information Technology) student at Poornima College of Engineering<br>💻 Strong interest in Frontend Development and UI/UX Design<br>🚀 Experience as a Frontend Developer at LNMHacks and Smart India Hackathon<br>🎨 Skilled in building responsive, user-centric web interfaces<br>✨ Focused on creating intuitive and engaging user experiences<br>📚 Continuously learning new technologies and improving problem-solving skills<br>🌟 Passionate about innovation and contributing to impactful projects</p>
+
 
 ###
 
