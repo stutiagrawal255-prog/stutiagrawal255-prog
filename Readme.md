@@ -51,12 +51,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stutiagrawal255-prog&theme=tokyonight" height="150" alt="stats graph" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stutiagrawal255-prog&theme=tokyonight" height="150" alt="languages graph" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=stutiagrawal255-prog&theme=tokyonight&hide_border=false" height="150" alt="streak graph" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stutiagrawal255-prog&radius=16&theme=tokyo-night&area=true" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stutiagrawal255-prog&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=e91e8c&icon_color=e91e8c&text_color=ffffff&bg_color=1c1f26&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stutiagrawal255-prog&layout=compact&langs_count=6&title_color=e91e8c&text_color=ffffff&bg_color=1c1f26&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 ###
