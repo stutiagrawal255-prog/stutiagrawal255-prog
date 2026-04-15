@@ -51,8 +51,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stutiagrawal255-prog&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=e91e8c&icon_color=e91e8c&text_color=ffffff&bg_color=1c1f26&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stutiagrawal255-prog&layout=compact&langs_count=6&title_color=e91e8c&text_color=ffffff&bg_color=1c1f26&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://ghrs.vercel.app/api?username=stutiagrawal255-prog
+&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://ghrs.vercel.app/api/top-langs?username=stutiagrawal255-prog
+&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stutiagrawal255-prog
+&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
