@@ -2,15 +2,11 @@
 
 ###
 
-<h4 align="left">About Me</h4>
+<img align="right" height="220" src="https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif"  />
 
 ###
 
-<p align="left">🎓 B.Tech (Information Technology) student at Poornima College of Engineering<br>💻 Strong interest in Frontend Development and UI/UX Design<br>🚀 Experience as a Frontend Developer at LNMHacks and Smart India Hackathon<br>🎨 Skilled in building responsive, user-centric web interfaces<br>✨ Focused on creating intuitive and engaging user experiences<br>📚 Continuously learning new technologies and improving problem-solving skills<br>🌟 Passionate about innovation and contributing to impactful projects</p>
-
-###
-
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRhZGlna21sd2tpYnM3ZHl5a25zNHM2czkybmgxcHhzZHV2a21oZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif"  />
+<p align="left">🎓 B.Tech (Information Technology) student at Poornima College of Engineering<br>🚀 Experience as a Frontend Developer at LNMHacks and Smart India Hackathon<br>🎨 Skilled in building responsive, user-centric web interfaces<br>✨ Focused on creating intuitive and engaging user experiences<br>📚 Continuously learning new technologies and improving problem-solving skills<br>🌟 Passionate about innovation and contributing to impactful projects</p>
 
 ###
 
