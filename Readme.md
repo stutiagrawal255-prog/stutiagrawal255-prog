@@ -5,7 +5,7 @@
 <img align="right" height="220" src="https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif"  />
 
 ###
-
+<h4 align="left">About Me</h4>
 <p align="left">🎓 B.Tech (Information Technology) student at Poornima College of Engineering<br>🚀 Experience as a Frontend Developer at LNMHacks and Smart India Hackathon<br>🎨 Skilled in building responsive, user-centric web interfaces<br>✨ Focused on creating intuitive and engaging user experiences<br>📚 Continuously learning new technologies and improving problem-solving skills<br>🌟 Passionate about innovation and contributing to impactful projects</p>
 
 ###
