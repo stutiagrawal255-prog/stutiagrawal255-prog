@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Stuti%20Agrawal&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer%20%E2%80%A2%20B.Tech%20IT%20Student&descSize=18&descAlignY=58" alt="Stuti Agrawal" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Stuti%20Agrawal&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Aspiring%20Data%20Analyst%20%E2%80%A2%20Debugger%20%E2%80%A2%20B.Tech%20IT&descSize=18&descAlignY=58" alt="Stuti Agrawal" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Building+responsive%2C+user-centric+web+interfaces;Hackathon+Frontend+Developer+%7C+SIH+%26+LNMHacks;Turning+ideas+into+reality+through+code" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=EC4899&center=true&vCenter=true&width=640&lines=Turning+raw+data+into+clear+decisions;SQL+%E2%80%A2+Python+%E2%80%A2+Excel+%E2%80%A2+Dashboards;Finding+the+bug+before+it+finds+the+user;Open+to+Data+Analyst+%26+QA%2FDebugging+internships" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://www.linkedin.com/in/stuti-agrawal255/"><img src="https://img.shields.io/badge/LinkedIn-Stuti%20Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -16,53 +16,101 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" height="200" src="https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif" alt="Coding animation" />
+I'm a **B.Tech Information Technology** student at **Poornima College of Engineering, Jaipur**, building toward a career as a **Data Analyst** and **Software Debugger**.
 
-I'm a **B.Tech Information Technology** student at **Poornima College of Engineering, Jaipur**, with a focus on frontend development. I enjoy turning ideas into clean, responsive interfaces that feel intuitive to use.
+I enjoy the full analysis cycle: **pulling data, cleaning it until it can be trusted, finding the pattern, and explaining it** in a way that non-technical people can act on. The same habit makes me a careful debugger. I reproduce the problem, isolate the cause, fix it, and check that it stays fixed.
 
-- 🚀 **Frontend Developer** at **Smart India Hackathon** and **LNMHacks**
-- 🎨 Build responsive, accessible, user-centric web interfaces
-- 🤖 Built an **AI-powered Resume Analyzer** with Python and Streamlit
+- 📊 Focused on **SQL, Python and Excel** for data cleaning, analysis and reporting
+- 🐞 Comfortable **tracing and fixing bugs** in Python, Java, C and C++ codebases
+- 🤖 Built an **AI-powered Resume Analyzer** that parses unstructured text into structured feedback
 - 🏦 Completed the **Wells Fargo Software Development** job simulation (Forage)
-- 📚 Continuously learning new technologies and sharpening problem-solving skills
-- 🌱 Open to **internships** and collaborative projects
+- 🏆 Hackathon experience at **Smart India Hackathon** and **LNMHacks**
+- 🌱 Open to **Data Analyst, QA and Debugging internships**
 
-<br clear="right" />
+---
+
+## 🔍 What I Bring
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Data Analysis
+- **Collect & organize** data from databases, spreadsheets and files
+- **Clean & validate** datasets: missing values, duplicates, inconsistent formats
+- **Query** with SQL: joins, aggregations, filtering, subqueries
+- **Analyze** trends, outliers and the drivers behind key metrics
+- **Visualize & report** findings as charts and dashboards
+- **Communicate** results clearly to technical and non-technical audiences
+
+</td>
+<td width="50%" valign="top">
+
+### 🐞 Debugging & Testing
+- **Reproduce** issues reliably before changing any code
+- **Isolate** root causes with logs, breakpoints and step-through debugging
+- **Fix** with minimal, well-scoped changes
+- **Verify** with test cases and edge-case checks
+- **Document** the bug, the cause and the fix for the team
+- **Version control** every change with Git
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+**Data & Analytics**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**Languages**
+**Visualization (learning)**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+**Programming & Debugging**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-**Database & Tools**
+**Version Control**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [**NSP Resume Analyzer**](https://github.com/stutiagrawal255-prog/NSP-Resume-Analyzer) | AI-powered resume analyzer that reviews resumes and gives feedback | Python · Streamlit |
-| [**Wells Fargo – Task 2**](https://github.com/stutiagrawal255-prog/wells-fargo-task-2) | Project work from the Wells Fargo Software Development job simulation (Forage) | Java |
-| [**Dev Notes**](https://github.com/stutiagrawal255-prog/dev-notes) | Development notes and learning resources | Markdown |
+| Project | What it does | Skills shown | Tech |
+|---|---|---|---|
+| [**NSP Resume Analyzer**](https://github.com/stutiagrawal255-prog/NSP-Resume-Analyzer) | AI-powered tool that extracts and scores information from resumes and returns structured feedback | Text parsing, data extraction, scoring logic, interactive reporting | Python · Streamlit |
+| [**Wells Fargo – Task 2**](https://github.com/stutiagrawal255-prog/wells-fargo-task-2) | Work from the Wells Fargo Software Development job simulation (Forage) | Data modeling, reading existing code, debugging, testing | Java |
+| [**Dev Notes**](https://github.com/stutiagrawal255-prog/dev-notes) | Personal notes on development, debugging techniques and data concepts | Documentation, continuous learning | Markdown |
+
+---
+
+## 🎯 Currently Focused On
+
+- 🧮 Advanced **SQL**: window functions, CTEs and query optimization
+- 🐼 Data cleaning and EDA with **Pandas** and **NumPy**
+- 📊 Building interactive dashboards in **Power BI** and **Tableau**
+- 📐 Statistics for analysis: distributions, correlation, hypothesis testing, A/B tests
+- 🧪 Structured debugging and unit testing practices
 
 ---
 
@@ -87,9 +135,9 @@ I'm a **B.Tech Information Technology** student at **Poornima College of Enginee
 
 ### 🤝 Let's Connect
 
-I'm always happy to talk about frontend development, hackathons, or new project ideas.
+I'm happy to talk about data analysis, debugging, internships or project collaborations.
 Reach out on [LinkedIn](https://www.linkedin.com/in/stuti-agrawal255/) or by [email](mailto:stutiagrawal255@gmail.com).
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&text=Turning%20ideas%20into%20reality%20through%20code.&fontSize=16&fontColor=ffffff&fontAlignY=65" alt="Footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&text=Clean%20data.%20Clear%20insights.%20Bug-free%20code.&fontSize=16&fontColor=ffffff&fontAlignY=65" alt="Footer" width="100%" />
 
 </div>
